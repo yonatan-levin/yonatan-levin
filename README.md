@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, Im Yonatan Levin
 
-<!--
-**yonatan-levin/yonatan-levin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full Stack Web Developer with proficiency in a wide range of technologies. I'm all about learning, collaboration, and bringing ideas to life through code.
 
-Here are some ideas to get you started:
+##
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonatan-levin&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Aviv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yonatan-levin&theme=dark)
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=yonatan-levin&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
+
+ 
+<p> I'm always open to collaboration and learning from others. If you're interested in contributing to my projects or have ideas you'd like to discuss, please feel free to reach out</p>
+
+
+##   
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonatan%20Levin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonatanlevin/)
+
+---
