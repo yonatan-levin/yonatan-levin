@@ -18,9 +18,9 @@
 
 ## 🧭 About Me
 
-I'm a full-stack developer who found his happy place at the intersection of **markets, machines, and clean code**. These days most of my energy goes into building **algorithmic trading and AI systems** — from low-latency Go services to Python research pipelines and the orchestration glue that holds them together.
+I'm a full-stack developer who found his happy place at the intersection of **markets and machines**. These days most of my energy goes into building **algorithmic trading and AI systems** — that would change the world.
 
-- 📈 Building a personal **algo-trading ecosystem**: [`midas`](https://github.com/yonatan-levin/midas) (Go engine), [`strade-orchestrator`](https://github.com/yonatan-levin/strade-orchestrator) (cross-tool orchestrator composing midas + algo_beta + borker with strict failure isolation), plus [`borker`](https://github.com/yonatan-levin/borker), [`swinger`](https://github.com/yonatan-levin/swinger), and [`fin_cli`](https://github.com/yonatan-levin/fin_cli)
+- 📈 Building a personal **algo-trading ecosystem**: [`midas`](https://github.com/yonatan-levin/midas), [`strade-orchestrator`](https://github.com/yonatan-levin/strade-orchestrator) (cross-tool orchestrator composing midas + algo_beta + borker with strict failure isolation), plus [`borker`](https://github.com/yonatan-levin/borker), [`swinger`](https://github.com/yonatan-levin/swinger), and [`fin_cli`](https://github.com/yonatan-levin/fin_cli)
 - 🧪 Running ML experiments and market research in [`mockingjay`](https://github.com/yonatan-levin/mockingjay) (Jupyter)
 - 🌐 Full-stack roots: JavaScript, microservices, and everything needed to ship real products end to end
 - 📚 Lifelong learner — I treat every bug as a tuition payment and every refactor as a step toward code perfection
